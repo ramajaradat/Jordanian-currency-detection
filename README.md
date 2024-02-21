@@ -43,7 +43,7 @@ The following is best  Roboflow model are evaluated in this project:
 
 
 
-## DEmo On Roboflow
+## Demo On Roboflow
 
 Once the model is trained, you can utilize the power of Roboflow for inference on new images of Jordanian currency.Roboflow  provides a user-friendly interface for deploying and utilizing pre-trained models, making it easy to integrate state-of-the-art natural language processing and computer vision capabilities into your projects.
 
