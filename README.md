@@ -35,11 +35,12 @@ The dataset consists of images with the following 9 classes:
 ### Models Evaluated
 The following is best  Roboflow model are evaluated in this project:
 
-## Test & Valid
+## Train
 ![Screenshot 2024-02-18 220803](https://github.com/ramajaradat/Jordanian-currency-detection/assets/83189283/a47d88ee-89f8-4fb3-a79f-cf1b9c93d47f)
 
-## Train 
-![Screenshot 2024-02-18 220803](https://github.com/ramajaradat/Jordanian-currency-detection/assets/83189283/713c646f-58fa-4336-9519-89e6641057d4)
+## Test & Valid  
+![Screenshot 2024-02-18 220752](https://github.com/ramajaradat/Jordanian-currency-detection/assets/83189283/0e375c09-9072-4dea-8092-36ff09c39420)
+
 
 
 ## Inference with Hugging Face
