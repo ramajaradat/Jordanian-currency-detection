@@ -1,0 +1,3 @@
+https://universe.roboflow.com/jordanian-detection/jd-coins-detect  // Best Version here
+https://universe.roboflow.com/jordanian-coins-detection-rsoof/coins-jd-detection
+https://universe.roboflow.com/jordanina-coins-detection/coins-detect
