@@ -26,7 +26,7 @@ The dataset consists of images with the following 9 classes:
 - 10 dinar 
 - 20 dinar 
 - 50 dinar 
-<!-- <img src="C:\Users\user\Pictures\Screenshots\Screenshot 2024-02-21 230420.png" alt="Example  Image 1"/> -->
+<img src="C:\Users\user\Pictures\Screenshots\Screenshot 2024-02-21 230420.png" alt="Example  Image 1"/>
  
 
 ### Models Evaluated
