@@ -33,32 +33,14 @@ The dataset consists of images with the following 9 classes:
  
 
 ### Models Evaluated
-The following pre-trained models are evaluated in this project:
-- **InceptionV3**
-  <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="results/InceptionV3.png" alt="result  Image 1" width="900"/>
-  <img src="results/InceptionV3_Con.Matrix.png" alt="result Image 1" width="450" height="300"/>
-  <img src="results/InceptionV3_classification report.png" alt="result Image 1" width="450" height="300"/>
-  </div>
+The following is best  Roboflow model are evaluated in this project:
 
-- **EfficientNet**
-   <div style="display: flex; flex-direction: column; justify-content: space-between;">
-   <img src="results/efficientNet.png" alt="result Image 2" width="900" height="250"/>
-  <img src="results/efficient_Confusion Matrix.png" alt="result Image 2" width="450" height="300"/>
-  <img src="results/efficient_classification report.png" alt="result Image 2" width="450" height="300"/>
-  </div>
-- **ResNet**
-   <div style="display: flex; flex-direction: column; justify-content: space-between;">
-   <img src="results/ResNet50.png" alt="result  Image 1" width="900" height="250"/>
-  <img src="results/ResNet50_Confusion_Matrix.png" alt="result  Image 2" width="450" height="300"/>
-  <img src="results/ResNet50_classification_report.png" alt="result  Image 3" width="450" height="300"/>
-  </div>
-- **VGGNet**
-   <div style="display: flex; flex-direction: column; justify-content: space-between;">
-   <img src="results/VGG16.png" alt="result  Image 1" width="900" height="300"/>
-  <img src="results/VGG16_Con_Matrix.png" alt="result  Image 2" width="450" height="300"/>
-  <img src="results/VGG16_Classification_report.png" alt="result  Image 3" width="450" height="300"/>
-  </div>
+## Test & Valid
+![Screenshot 2024-02-18 220803](https://github.com/ramajaradat/Jordanian-currency-detection/assets/83189283/a47d88ee-89f8-4fb3-a79f-cf1b9c93d47f)
+
+## Train 
+![Screenshot 2024-02-18 220803](https://github.com/ramajaradat/Jordanian-currency-detection/assets/83189283/713c646f-58fa-4336-9519-89e6641057d4)
+
 
 ## Inference with Hugging Face
 
