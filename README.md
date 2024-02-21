@@ -52,10 +52,10 @@ Choose a version : Select a "Best Model"  version wich it the best version we go
 
 Input Data: Prepare your input data, in this case, images video ,real time webcam or any link foe image or video  of Jordanian currency, ensuring they are in a compatible format and quality for the chosen model.
 
-Model Inference: Utilize Roboflow  inference capabilities to process the input images through the selected pre-trained model. This step will generate predictions or insights based on the model's understanding of the input data. please follow this Roboflow Demo.(https://universe.roboflow.com/jordanian-detection/jd-coins-detect/dataset/4)
+Model Inference: Utilize Roboflow  inference capabilities to process the input images through the selected pre-trained model. This step will generate predictions or insights based on the model's understanding of the input data. please follow this Roboflow Demo.[RoboFlow Demo](https://universe.roboflow.com/jordanian-detection/jd-coins-detect/dataset/4)
 
 
 
 ## Presentation
-For more details, please refer to our presentation <a href="https://prezi.com/p/edit/rob86aji2seu/">here</a>
+For more details, please refer to our presentation [presentation](https://prezi.com/p/edit/w9xjp2wqfrti/)
 
