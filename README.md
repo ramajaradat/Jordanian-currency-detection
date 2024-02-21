@@ -26,7 +26,10 @@ The dataset consists of images with the following 9 classes:
 - 10 dinar 
 - 20 dinar 
 - 50 dinar 
-![Uploading Screenshot 2024-02-21 230420.png…]()
+
+
+![Screenshot 2024-02-21 230420](https://github.com/ramajaradat/Jordanian-currency-detection/assets/83189283/e35d9427-da60-43dc-ba70-3157b86f4947)
+
  
 
 ### Models Evaluated
