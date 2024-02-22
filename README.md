@@ -11,7 +11,7 @@ In this project, we leverage the power of Roboflow tools to create a sophisticat
 
 
 ## Dataset:
-The dataset for this project was created by collecting images of Jordanian currency  from various website sources. 
+The dataset for this project was created by collecting images of Jordanian currency  from various website sources and manually take a photos. 
 
 ### Data Collection:
 
